@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Syntax"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6b543890-e9d5-f857-709d-dc5b20d0fd0c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Language and its Structure II: Syntax",
+  "course_description": "This course covers some of the basic ideas in the subfield syntax, within the framework often referred to as \"Generative Grammar\".\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "24.932",
+  "primary_course_number": "24.902",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
